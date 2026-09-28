@@ -126,20 +126,6 @@ The analysis provides several useful observations about the music dataset:
 
   6. Interactive Analysis:- The Power BI dashboard allows users to filter the information by genre, artist, and release year, making it possible to explore specific parts of the dataset interactively.
 
-# Project Workflow:-
-
-Raw Dataset
-     ↓
-Data Cleaning & Preparation
-     ↓
-Exploratory Data Analysis
-     ↓
-Data Visualization
-     ↓
-Power BI Dashboard
-     ↓
-Insights & Findings
-
 # Learning Outcomes:-
 
 Through this project, I gained practical experience in:
